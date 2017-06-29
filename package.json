@@ -1,0 +1,23 @@
+{
+  "name": "heapdump1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupyong/heapdump.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupyong/heapdump/issues"
+  },
+  "homepage": "https://github.com/cupyong/heapdump#readme",
+  "dependencies": {
+    "shelljs": "^0.7.8",
+    "tap": "^10.7.0"
+  }
+}
